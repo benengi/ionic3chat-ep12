@@ -1,10 +1,10 @@
 # Ionic 3 Chat
 
-A chat application made using Ionic 3 and firebase.
+## Episode 12
 
-(Please note that this is a work in progress).
+### Creating Groups
 
-For individual parts of this entire app please check my other repos.
+The code for the twelfth part of the series. For further details - http://tphangout.com/?p=708
 
 Thanks.
 
